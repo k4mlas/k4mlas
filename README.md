@@ -1,5 +1,3 @@
-<ceenter>![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)  </center>
-
 <h1>Cześć :) 👋</h1>
 
 <p>Jestem młodym programistą, który od roku zajmuje się tworzeniem stron internetowych i aplikacji webowych. Moją specjalizacją jest frontend, a szczególnie tworzenie interaktywnych interfejsów użytkownika. Pasjonuje mnie projektowanie pięknych i użytecznych stron, które przyciągają uwagę i oferują użytkownikom wspaniałe wrażenia.
@@ -31,7 +29,8 @@ I want to share my projects with other programmers to gain valuable opinions and
 <br>## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
 <br>
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)
+![GitHub metrics](https://metrics.lecoq.io/k4mlas)  
 <!--
 **k4mlas/k4mlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
