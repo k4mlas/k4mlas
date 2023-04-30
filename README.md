@@ -1,3 +1,5 @@
+![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)  
+
 <h1>Cześć :) 👋</h1>
 
 <p>Jestem młodym programistą, który od roku zajmuje się tworzeniem stron internetowych i aplikacji webowych. Moją specjalizacją jest frontend, a szczególnie tworzenie interaktywnych interfejsów użytkownika. Pasjonuje mnie projektowanie pięknych i użytecznych stron, które przyciągają uwagę i oferują użytkownikom wspaniałe wrażenia.
