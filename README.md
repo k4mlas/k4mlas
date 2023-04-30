@@ -1,4 +1,4 @@
-![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)  
+<ceenter>![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)  
 
 <h1>Cześć :) 👋</h1>
 
