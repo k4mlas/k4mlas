@@ -6,7 +6,7 @@ Mimo swojego krótkiego doświadczenia, stale się uczę i rozwijam swoje umiej�
 
 Chcę podzielić się swoimi projektami z innymi programistami, aby zyskać wartościowe opinie i uwagi, które pomogą mi stać się jeszcze lepszym frontend developerem. W moim repozytorium znajdziesz wiele interesujących projektów, w których brałem udział oraz wiele własnych projektów, które rozwijam w celu zdobycia nowych umiejętności i doświadczeń.</p>
 
-<center>![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)</center>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)
 
 <br><h2>Skontaktu się ze mną 👨🏻‍💻 :</h2>
 
