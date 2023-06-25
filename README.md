@@ -14,6 +14,8 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 ## Connect with me 👨🏻‍💻 :
 
+<br>
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kamil-łaskarzewski-021b64253/)
 
 <br>
@@ -28,7 +30,8 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 [<img align="left" alt="e-mail" src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](k4mlas@gmail.com)
 
-<br><br>
+<br>
+<br>
 
 ## Expertise 👨🏻‍🏫 :
 
