@@ -18,7 +18,7 @@ I want to share my projects with other programmers to gain valuable opinions and
 ## Connect with me 👨🏻‍💻 :
 
 
- [<img align="middle" margin="2px" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kamil-łaskarzewski-021b64253/)
+ [<img align="left" margin="2px" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kamil-łaskarzewski-021b64253/)
 
 
  [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100003015224951)
@@ -29,9 +29,9 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 ## Expertise 👨🏻‍🏫 :
 
-<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
+<img align="middle" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
 
-<img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="middle" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Java Script-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge"/>
 
