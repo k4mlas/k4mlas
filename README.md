@@ -28,25 +28,6 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4mlas)](https://github.com/anuraghazra/github-readme-stats)
 
-# Cześć :) 👋
-
-Jestem młodym programistą, który od roku zajmuje się tworzeniem stron internetowych i aplikacji webowych. Moją specjalizacją jest frontend, a szczególnie tworzenie interaktywnych interfejsów użytkownika. Pasjonuje mnie projektowanie pięknych i użytecznych stron, które przyciągają uwagę i oferują użytkownikom wspaniałe wrażenia.
-
-Mimo swojego krótkiego doświadczenia, stale się uczę i rozwijam swoje umiejętności. W mojej pracy skupiam się na korzystaniu z najnowszych technologii i narzędzi, aby tworzyć innowacyjne projekty, które przyciągają uwagę i oferują najlepsze doświadczenia użytkownikom.
-
-Chcę podzielić się swoimi projektami z innymi programistami, aby zyskać wartościowe opinie i uwagi, które pomogą mi stać się jeszcze lepszym frontend developerem. W moim repozytorium znajdziesz wiele interesujących projektów, w których brałem udział oraz wiele własnych projektów, które rozwijam w celu zdobycia nowych umiejętności i doświadczeń.
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)
-
-## Skontaktu się ze mną 👨🏻‍💻 :
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kamil-łaskarzewski-021b64253/)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100003015224951)[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%432333F2.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@k4mlas429)
-[<img align="left" alt="e-mail" src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](k4mlas@gmail.com)
-
-
-## Moje umiejętności 👨🏻‍🏫 :
-
-<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" /><img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img align="left" alt="JavaScript" src="https://img.shields.io/badge/Java Script-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge" /><img align="left" alt="figma" src="https://img.shields.io/badge/Figma-%23316192.svg?&style=for-the-badge&logo=figma&logoColor=white" /><img align="left" alt="bootstrap" 
 
 
 
