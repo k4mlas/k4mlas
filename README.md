@@ -6,6 +6,8 @@ Despite my short experience, I am constantly learning and developing my skills. 
 
 I want to share my projects with other programmers to gain valuable opinions and feedback that will help me become an even better frontend developer. In my repository, you will find many interesting projects in which I have participated, as well as many of my own projects that I am developing to acquire new skills and experiences.
 
+check out my [repository](https://github.com/k4mlas?tab=repositories)
+
 <br><br>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=k4mlas)
