@@ -28,7 +28,7 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 <img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
 
-<img align="up" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Java Script-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge" />
 
