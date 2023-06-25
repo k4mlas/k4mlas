@@ -35,10 +35,10 @@ I want to share my projects with other programmers to gain valuable opinions and
 
 ## Expertise 👨🏻‍🏫 :
 
-<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" /><img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img align="left" alt="JavaScript" src="https://img.shields.io/badge/Java Script-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge" /><img align="left" alt="figma" src="https://img.shields.io/badge/Figma-%23316192.svg?&style=for-the-badge&logo=figma&logoColor=white" /><img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-3DDC84?logo=bootstrap&logoColor=white&style=for-the-badge"/><img align="left" alt="github" src="https://img.shields.io/badge/GitHub%20-%236DB33F.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img align="left" padding=1px alt="html" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" /><img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img align="left" alt="JavaScript" src="https://img.shields.io/badge/Java Script-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge" /><img align="left" alt="figma" src="https://img.shields.io/badge/Figma-%23316192.svg?&style=for-the-badge&logo=figma&logoColor=white" /><img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-3DDC84?logo=bootstrap&logoColor=white&style=for-the-badge"/><img align="left" alt="github" src="https://img.shields.io/badge/GitHub%20-%236DB33F.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img align="left" alt="gulp" src="https://img.shields.io/badge/gulp%20-%2361DAFB.svg?&style=for-the-badge&logo=gulp&logoColor=white"/>
 
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4mlas)](https://github.com/anuraghazra/github-readme-stats)
 
